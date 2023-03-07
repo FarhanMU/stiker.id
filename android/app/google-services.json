@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "73899478969",
+    "project_id": "bukahuni",
+    "storage_bucket": "bukahuni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73899478969:android:76c0c4e6810de5edb03068",
+        "android_client_info": {
+          "package_name": "com.bukahuni.hunipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73899478969-5c6of5q7blhsehl9cr8r0m6uds1r544u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukahuni.hunipro",
+            "certificate_hash": "c0abf33c8fb1d9a684cf79dce8ddaac1ddbde960"
+          }
+        },
+        {
+          "client_id": "73899478969-9koemsgth3ipmqknqsed7f5hk33o48c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukahuni.hunipro",
+            "certificate_hash": "27fd0ffee51f650703bbd00611babfc43a17fd8a"
+          }
+        },
+        {
+          "client_id": "73899478969-f56ojqf7j34k63c8ba1kga97o16iau26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukahuni.hunipro",
+            "certificate_hash": "da8244aa261d279b587e066c9311d4477e1c01f6"
+          }
+        },
+        {
+          "client_id": "73899478969-87hsh7ph0frph2tu9jae43pliimfag5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0a79mjbg2S-H0geQMKC9BPTxJl7-QvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73899478969-7hrng9n59inndpur9n38vvo45o3vpk5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73899478969-h0tjg5p7qtevm0hs6vienufo6orfuuak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.merraland.merraland",
+                "app_store_id": "6443462292"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73899478969:android:ff4f3e7c18bcd96fb03068",
+        "android_client_info": {
+          "package_name": "com.bukahunitech.bukahuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73899478969-e87af579jes4fdgrclctj5vn53bsb3vu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukahunitech.bukahuni",
+            "certificate_hash": "c0abf33c8fb1d9a684cf79dce8ddaac1ddbde960"
+          }
+        },
+        {
+          "client_id": "73899478969-jmu1mspgu2r84clrsl4rr0ddolis12b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukahunitech.bukahuni",
+            "certificate_hash": "27fd0ffee51f650703bbd00611babfc43a17fd8a"
+          }
+        },
+        {
+          "client_id": "73899478969-l131rbq3b65qhbcvecusv4uo186j0448.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukahunitech.bukahuni",
+            "certificate_hash": "a02611ab1aebc4a6f4a92002e4e125a6f80cbe4c"
+          }
+        },
+        {
+          "client_id": "73899478969-87hsh7ph0frph2tu9jae43pliimfag5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0a79mjbg2S-H0geQMKC9BPTxJl7-QvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73899478969-7hrng9n59inndpur9n38vvo45o3vpk5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73899478969-h0tjg5p7qtevm0hs6vienufo6orfuuak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.merraland.merraland",
+                "app_store_id": "6443462292"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73899478969:android:3a213a85de3fd1a6b03068",
+        "android_client_info": {
+          "package_name": "com.merraland.merraland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73899478969-87hsh7ph0frph2tu9jae43pliimfag5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0a79mjbg2S-H0geQMKC9BPTxJl7-QvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73899478969-7hrng9n59inndpur9n38vvo45o3vpk5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73899478969-h0tjg5p7qtevm0hs6vienufo6orfuuak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.merraland.merraland",
+                "app_store_id": "6443462292"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73899478969:android:a4a497dc9b095139b03068",
+        "android_client_info": {
+          "package_name": "com.stikerId.StikerId"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73899478969-89nt042jt739km4dka2ma3sgs40gpk2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stikerId.StikerId",
+            "certificate_hash": "27fd0ffee51f650703bbd00611babfc43a17fd8a"
+          }
+        },
+        {
+          "client_id": "73899478969-gatmhvv4eich6o8o4khfenpjfcvpilcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stikerId.StikerId",
+            "certificate_hash": "3ab97da064af9c882574572c01a5e7149a21536a"
+          }
+        },
+        {
+          "client_id": "73899478969-87hsh7ph0frph2tu9jae43pliimfag5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0a79mjbg2S-H0geQMKC9BPTxJl7-QvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73899478969-7hrng9n59inndpur9n38vvo45o3vpk5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73899478969-h0tjg5p7qtevm0hs6vienufo6orfuuak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.merraland.merraland",
+                "app_store_id": "6443462292"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
